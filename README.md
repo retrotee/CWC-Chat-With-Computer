@@ -18,7 +18,7 @@ Welcome to **Chat With Computer (CWC)**! This innovative application allows user
 
 ### Pre-Built Binaries
 
-For Linux users, a pre-built version of the application is available for free. You can download it from the [Releases](https://github.com/retrotee/cwc/releases) tab.
+For Linux users, a pre-built version of the application is available for free. You can download it from the [Releases](https://github.com/retrotee/CWC-Chat-With-Computer/releases) tab.
 
 ### Building from Source
 
