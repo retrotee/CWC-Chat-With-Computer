@@ -26,8 +26,8 @@ If you prefer to build the application from source, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/retrotee/cwc.git
-   cd cwc
+   git clone https://github.com/retrotee/CWC-Chat-With-Computer.git
+   cd CWC-Chat-With-Computer
    ```
 
 2. **Install Dependencies:**
