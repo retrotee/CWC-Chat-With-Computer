@@ -37,10 +37,11 @@ If you prefer to build the application from source, follow these steps:
    - `psutil`
    - `cpuinfo`
    - `g4f`
+   - `curl_cffi`
 
    You can install these using pip:
    ```bash
-   pip install PyQt5 GPUtil psutil py-cpuinfo g4f
+   pip install PyQt5 GPUtil psutil py-cpuinfo g4f curl_cffi
    ```
 
 3. **Run the Application:**
@@ -74,6 +75,7 @@ Special thanks to the following contributors and libraries that made this projec
 - **[psutil](https://github.com/giampaolo/psutil)** - System utilities library by Giampaolo Rodola.
 - **[cpuinfo](https://github.com/workhorsy/py-cpuinfo)** - CPU information library by Matthew Jones.
 - **[g4f](https://github.com/xtekky/gpt4free)** - AI interaction client by Tekky.
+- **[curl_cffi](https://github.com/lexiforest/curl_cffi)** - Python binding for curl-impersonate via cffi by Lyonnet.
 
 ## License
 
