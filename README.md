@@ -54,7 +54,7 @@ If you prefer to build the application from source, follow these steps:
 
 You are allowed to:
 
-- **Use** the application freely for personal purposes (for commercial purposes, please contact me via the E-Mail in my GitHub Profile).
+- **Use** the application freely for personal purposes only.
 - **Enhance** and modify the application. When doing so, please credit the original authors.
 
 You are prohibited from:
