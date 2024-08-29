@@ -274,7 +274,7 @@ class CWC(QMainWindow):
         This is the chat history with the user: {self.history}
         """
 
-        client = Client(provider=You)
+        client = Client()
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
